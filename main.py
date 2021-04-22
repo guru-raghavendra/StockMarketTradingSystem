@@ -3,6 +3,8 @@ from all_db import *
 from all_classes import *
 from getpass import getpass
 
+#exchange name should be added to make the admin available
+
 
 def login():
     email = input("Enter your email : ")
