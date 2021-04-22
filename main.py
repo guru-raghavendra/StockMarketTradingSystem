@@ -4,7 +4,8 @@ from all_classes import *
 from getpass import getpass
 
 #exchange name should be added to make the admin available
-
+#for now exchange name: BSE
+#exchange id: 1
 
 def login():
     email = input("Enter your email : ")
